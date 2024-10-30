@@ -1,2 +1,2 @@
-# aitp
+# Emulator
 School project
